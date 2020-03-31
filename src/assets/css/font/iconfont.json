@@ -1,0 +1,16 @@
+{
+  "id": "649603",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "798052",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    }
+  ]
+}
